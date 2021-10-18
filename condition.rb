@@ -49,3 +49,15 @@ for i in 5..11
     r= r+1
     redo if r == 15
  end
+
+puts "case"
+ case percentage
+ when percentage
+     puts "A"
+ else 
+     puts "B"
+ en
+ node123
+
+ 
+ 

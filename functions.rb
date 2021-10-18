@@ -9,11 +9,11 @@
 
 # doSomething('rohit')
 
-def swaps (num1 ,num2) 
+def swaps (num1=10 ,num2=20) 
     temp = num1 
     num1 = num2
     num2 = temp
-    return num1, num2
+    return num1,num2 #multiple return 
 end
 
-puts swaps (1,2)
+puts swaps(1,2)
